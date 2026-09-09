@@ -5,6 +5,8 @@ License: MIT. Upstream may take everything; that is the point.
 
 ## The honest state of this project
 
+See also [`STATUS.md`](STATUS.md) for the machine-readable research-only demotion.
+
 This repository contains project scaffolding, a research roadmap, tooling,
 and eventually driver code. It does **not** yet contain a working driver,
 and nothing here will claim to until pixels appear on a physical M3 machine.
